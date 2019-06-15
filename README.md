@@ -39,7 +39,7 @@ You can ask for any kinds of help regarding this project via Discord DMs or thro
 * <a href=https://github.com/LilPietrek>LilPietrek</a> - Thanks for your time for managing and supporting my shell project.
 * <a href=https://github.com/Hazuki-san>Aoba Suzukaze</a> - Thanks you for your ripple auto installer project. Really helped me a lot.
 * <a href=https://github.com/ppy>peppy</a> - Thank you for the wonderful game.
-* <a href=https://github.com/osuripple>Ripple</a> - Thank your for your private server.
+* <a href=https://github.com/osuripple>Ripple</a> - Thank you for your private server.
 * <a href=https://github.com/osufx>osu!fx</a> - Thanks for the secret module!
 * <a href=https://github.com/osuYozora>osu!Yozora</a> - Thanks for the past!
 * <a href=https://github.com/EmilySunpy>Sunpy</a> - Thanks for most of the commands and dependencies!
