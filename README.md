@@ -45,4 +45,4 @@ You can ask for any kinds of help regarding this project via Discord DMs or thro
 * <a href=https://github.com/EmilySunpy>Sunpy</a> - Thanks for most of the commands and dependencies!
 
 # License [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0) [![License: ODbL](https://img.shields.io/badge/License-ODbL-brightgreen.svg)](https://opendatacommons.org/licenses/odbl/)
-This installer falls under the General Public License v3. For more information, see the file `LICENSE` or visit http://www.gnu.org/licenses/gpl.html.
+This installer falls under the GNU Affero General Public License 3.0. For more information, see the file `LICENSE` or visit http://www.gnu.org/licenses/gpl.html.
