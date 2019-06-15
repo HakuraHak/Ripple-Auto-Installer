@@ -1,4 +1,4 @@
-# Auto Ripple Server Installer [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)  [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Uniminin/)
+# Auto Ripple Server Installer [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)  [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Uniminin/) [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Uniminin/) 
 <b>**THIS SCRIPT IS NOT FOR LOCAL PC (localhost)**</b><br>
 Uniminin's Auto Ripple OSU! Server Installer!
 
@@ -33,7 +33,7 @@ You can ask for any kinds of help regarding this project via Discord DMs or thro
 <br>
 @uniminin#1151 - Uniminin
 
-# Credits
+# Credits [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://github.com/Uniminin/)
 * <a href=https://github.com/Uniminin>Uniminin</a> - Aoba's Successor.
 * <a href=https://github.com/Ozymandias42>Ozymandias42</a> - Thank You so much for rearranging and styling everything. You're the best <3.
 * <a href=https://github.com/LilPietrek>LilPietrek</a> - Thanks for your time for managing and supporting my shell project.
