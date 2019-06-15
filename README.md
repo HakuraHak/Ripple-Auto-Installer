@@ -1,4 +1,4 @@
-# Auto Ripple Server Installer [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+# Auto Ripple Server Installer
 <b>**THIS SCRIPT IS NOT FOR LOCAL PC (localhost)**</b><br>
 Uniminin's Auto Ripple OSU! Server Installer!
 
@@ -44,5 +44,5 @@ You can ask for any kinds of help regarding this project via Discord DMs or thro
 * <a href=https://github.com/osuYozora>osu!Yozora</a> - wow man <a href=https://github.com/osuYozora>@osuYozora</a> Thanks for the past!
 * <a href=https://github.com/EmilySunpy>Sunpy</a> - Thanks for most of the commands and dependencies!
 
-# License
+# License [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0) [![License: ODbL](https://img.shields.io/badge/License-ODbL-brightgreen.svg)](https://opendatacommons.org/licenses/odbl/)
 This installer falls under the General Public License v3. For more information, see the file `LICENSE` or visit http://www.gnu.org/licenses/gpl.html.
