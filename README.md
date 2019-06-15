@@ -1,4 +1,4 @@
-# Auto Ripple Server Installer
+# Auto Ripple Server Installer [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 <b>**THIS SCRIPT IS NOT FOR LOCAL PC (localhost)**</b><br>
 Uniminin's Auto Ripple OSU! Server Installer!
 
