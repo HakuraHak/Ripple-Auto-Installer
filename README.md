@@ -1,4 +1,4 @@
-# Auto Ripple Server Installer [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/) [![PyPI status](https://img.shields.io/pypi/status/ansicolortags.svg)]
+# Auto Ripple Server Installer [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)  [![PyPI status](https://img.shields.io/pypi/status/ansicolortags.svg)]
 <b>**THIS SCRIPT IS NOT FOR LOCAL PC (localhost)**</b><br>
 Uniminin's Auto Ripple OSU! Server Installer!
 
