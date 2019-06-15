@@ -41,7 +41,7 @@ You can ask for any kinds of help regarding this project via Discord DMs or thro
 * <a href=https://github.com/ppy>peppy</a> - Thank you for the wonderful game.
 * <a href=https://github.com/osuripple>Ripple</a> - Thank your for your private server.
 * <a href=https://github.com/osufx>osu!fx</a> - Thanks for the secret module!
-* <a href=https://github.com/osuYozora>osu!Yozora</a> - wow man <a href=https://github.com/osuYozora>@osuYozora</a> Thanks for the past!
+* <a href=https://github.com/osuYozora>osu!Yozora</a> - Thanks for the past!
 * <a href=https://github.com/EmilySunpy>Sunpy</a> - Thanks for most of the commands and dependencies!
 
 # License [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0) [![License: ODbL](https://img.shields.io/badge/License-ODbL-brightgreen.svg)](https://opendatacommons.org/licenses/odbl/)
