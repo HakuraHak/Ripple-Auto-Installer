@@ -15,7 +15,7 @@ This Script installs most of the things for server! If you want to use custom mo
 * Everything is Pre-ready and is getting via wget
 
 # Installation Instructions
-First of all you need to download it by either downloading it from GitHub, or running this command to download: `wget https://raw.githubusercontent.com/Uniminin/Unis-Ripple-Auto-Installer/master/installer.sh`
+First of all you need to download it by either downloading it from GitHub, or running this command to download: `wget https://raw.githubusercontent.com/Uniminin/Ripple-Auto-Installer/master/installer.sh`
 
 After you do this, copy-paste then run this command: `chmod +x installer.sh && ./installer.sh`, and it will take you into the installation process!
 
