@@ -13,11 +13,23 @@ This Script installs most of the things for server! If you want to use custom mo
 * A configurable shell script for installing most of the things for your clone Ripple server
 * Ripple Based
 * Everything is Pre-ready and is getting via wget
+* Simple and user friendly Installation
 
 # Installation Instructions
-First of all you need to download it by either downloading it from GitHub, or running this command to download: `wget https://raw.githubusercontent.com/Uniminin/Ripple-Auto-Installer/master/installer.sh`
 
-After you do this, copy-paste then run this command: `chmod +x installer.sh && ./installer.sh`, and it will take you into the installation process!
+### Step 1:
+
+First of all you need to download it by either downloading it from GitHub, or running this command to download: 
+
+```wget https://raw.githubusercontent.com/Uniminin/Ripple-Auto-Installer/master/installer.sh```
+
+### Step 2:
+
+After you do this, copy-paste then run the following command and it will take you into the installation process!
+
+```chmod +x installer.sh && ./installer.sh```
+
+You `don't have to be root` then, although `it is recommended`.
 
 Make sure you set your DNS like this:
 
@@ -27,6 +39,13 @@ Make sure you set your DNS like this:
 * a.YOUR-DOMAIN
 * s.YOUR-DOMAIN
 * old.YOUR-DOMAIN
+
+# Tested OS
+
+| NO | Status| Platform|
+|----|-------|---------|
+|1|[![](https://neilpang.github.io/acmetest/status/ubuntu-latest.svg)](https://github.com/uniminin)| Ubuntu
+|2|[![](https://neilpang.github.io/acmetest/status/kalilinux-kali-linux-docker.svg)](https://github.com/uniminin)|Kali Linux
 
 # Need Help?
 You can ask for any kinds of help regarding this project via Discord DMs or through Github Issues.<br>
