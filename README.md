@@ -21,14 +21,16 @@ This Script installs most of the things for server! If you want to use custom mo
 
 First of all you need to download it by either downloading it from GitHub, or running this command to download: 
 
-```wget https://raw.githubusercontent.com/Uniminin/Ripple-Auto-Installer/master/installer.sh
+```bash
+wget https://raw.githubusercontent.com/Uniminin/Ripple-Auto-Installer/master/installer.sh
 ```
 
 ### Step 2:
 
 After you do this, copy-paste then run the following command and it will take you into the installation process!
 
-```chmod +x installer.sh && ./installer.sh
+```bash
+chmod +x installer.sh && ./installer.sh
 ```
 
 You `don't have to be root` then, although `it is recommended`.
